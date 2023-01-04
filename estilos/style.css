@@ -4,3 +4,13 @@ body{
     margin: 1rem;
     background-color: rgb(196, 192, 192);
 }
+.post{
+    display: flex;
+    width: 100vw;
+    justify-content: center;
+    min-height: 10rem;
+}
+.text{
+    background-color: #333;
+    width: 80vw;
+}
