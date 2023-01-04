@@ -4,3 +4,22 @@ body{
     margin: 1rem;
     background-color: rgb(196, 192, 192);
 }
+.cabecera
+{
+    width: 90vw;
+    height: 6rem;
+    background-color: #333;
+    color: red;
+    padding: .1rem;
+}
+
+.menu
+{
+    display: flex;
+    margin: 1rem ;
+}
+h4
+{
+    margin: 0 1rem;
+}
+
