@@ -7,7 +7,7 @@ body{
 .cabecera
 {
     width: 90vw;
-    height: 6rem;
+    min-height: 6rem;
     background-color: #333;
     color: red;
     padding: .1rem;
@@ -20,6 +20,14 @@ body{
 }
 h4
 {
+    margin: 0 1rem;
+}
+.sub
+{
+    display: flex;
+    color: white;
+}
+h5{
     margin: 0 1rem;
 }
 
