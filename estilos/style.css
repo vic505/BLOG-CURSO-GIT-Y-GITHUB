@@ -4,13 +4,30 @@ body{
     margin: 1rem;
     background-color: rgb(196, 192, 192);
 }
-.post{
-    display: flex;
-    width: 100vw;
-    justify-content: center;
-    min-height: 10rem;
-}
-.text{
+.cabecera
+{
+    width: 90vw;
+    min-height: 6rem;
     background-color: #333;
-    width: 80vw;
+    color: red;
+    padding: .1rem;
 }
+
+.menu
+{
+    display: flex;
+    margin: 1rem ;
+}
+h4
+{
+    margin: 0 1rem;
+}
+.sub
+{
+    display: flex;
+    color: white;
+}
+h5{
+    margin: 0 1rem;
+}
+
