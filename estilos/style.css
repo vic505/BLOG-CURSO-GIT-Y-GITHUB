@@ -4,6 +4,12 @@ body{
     margin: 1rem;
     background-color: rgb(196, 192, 192);
 }
+.container1{
+    width: 100vw;
+    min-height: 15px;
+    display: flex;
+    justify-content: center;
+}
 .cabecera
 {
     width: 90vw;
@@ -30,4 +36,21 @@ h4
 h5{
     margin: 0 1rem;
 }
+.container2{
+    width: 100vw;
+    min-height: 15px;
+    display: flex;
+    justify-content: center;
+    margin: 1rem 0 0 0;
+}
 
+.post 
+{
+    width: 80vw;
+
+}
+.post p{
+    color:#333;
+    font-size: 16px;
+    text-align: justify;
+}
